@@ -10,9 +10,9 @@ Sou estudante de **Desenvolvimento de Sistemas** no **SESI SENAI**, apaixonada p
 - Node.js
 
 📂 **Projetos em destaque**:
-- [Projeto de API de Tarefas](https://github.com/seu-usuario/projeto-tarefas)
-- [Aplicativo de Lista de Compras](https://github.com/seu-usuario/lista-compras)
+- [Projeto de API de Tarefas]( https://hinyzw.github.io/listaTarefas/)
+- [Conexão com APIs]((https://hinyzw.github.io/MinhasAPIs/))
 
 📞 **Conecte-se comigo**:
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
-- [Email](mailto:seu-email@example.com)
+- [LinkedIn]((https://www.linkedin.com/in/tailyni-satirio-225015240/))
+- [Email](mailto:tailyni80@gmail.com)
