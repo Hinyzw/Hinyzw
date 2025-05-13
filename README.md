@@ -9,6 +9,8 @@ Sou estudante de **Desenvolvimento de Sistemas** no **SESI SENAI**, apaixonada p
 - JavaScript
 - HTML/CSS
 - Node.js
+- Flutter
+- Dart
 
 📂 **Projetos em destaque**:
 - [Projeto de API de Tarefas]( https://hinyzw.github.io/listaTarefas/)
