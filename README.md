@@ -13,7 +13,6 @@ Sou estudante de **Desenvolvimento de Sistemas** no **SESI SENAI**, apaixonada p
 - Dart
 
 📂 **Projetos em destaque**:
-- [Projeto de API de Tarefas]( https://hinyzw.github.io/listaTarefas/)
 - [Conexão com APIs]((https://hinyzw.github.io/MinhasAPIs/))
 
 📞 **Conecte-se comigo**:
