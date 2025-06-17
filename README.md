@@ -11,6 +11,8 @@ Sou estudante de **Desenvolvimento de Sistemas** no **SESI SENAI**, apaixonada p
 - Node.js
 - Flutter
 - Dart
+- Python
+
 
 📂 **Projetos em destaque**:
 - [Conexão com APIs]((https://hinyzw.github.io/MinhasAPIs/))
